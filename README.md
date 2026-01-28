@@ -1,0 +1,1 @@
+An Aim Trainer game that uses pygame library. The game has a top bar showing the time, speed, hits and lives. A player has a total of 3 lives. After 3 misses (or when all the lives have ended), the player sees their details such as time, speed, hits and accuracy.
